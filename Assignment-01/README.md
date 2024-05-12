@@ -21,7 +21,7 @@ Your program will need to prompt the user for several inputs, namely:
 - number of regular hours worked: example 15.5 hours.
 - number of overtime hours worked: example 5.5 hours.
 
-The program will produce and display the monthly gross pay, tax withholding and net pay as monetary amounts. Use constants within your code where appropriate.
+The program will produce and display the monthly gross pay, tax withholding, deductions and net pay as monetary amounts. Use constants within your code where appropriate.
 
 
 
