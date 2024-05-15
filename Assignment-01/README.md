@@ -28,11 +28,19 @@ The program will produce and display the monthly gross pay, tax withholding, ded
 ### Note: For this assignment, assume input data will be valid values. 
 
 ### Sample Run
+
+### Note: It is suggested that you run your program with different values to ensure your calculations are correct.
+
 ![assign1](images/assign1-sample-run.gif)
 
 ## Submission
 Commit and push your solution to your GitHub classroom assignment repository before the deadline. Ensure that your solution follows the best coding and style practices, **as your instructor has shown you in class**. Failed adherence to the prescribed style guidelines may result in lost marks. __Your program must compile; a program that fails to compile will not be graded.__
 
+## Code Requirements
+- A C# comment block at the beginning of the source file describing the purpose, author, and last modified date of the program
+- Write only one statement per line
+- Use TitlelCase for local variable names
+- Use CAPITAL_CASE for any constant variable names
 
 ## Rubric
 | Mark | Description |
