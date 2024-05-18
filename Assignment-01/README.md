@@ -39,7 +39,7 @@ Commit and push your solution to your GitHub classroom assignment repository bef
 ## Code Requirements
 - A C# comment block at the beginning of the source file describing the purpose, author, and last modified date of the program
 - Write only one statement per line
-- Use TitlelCase for local variable names
+- Use TitleCase for local variable names
 - Use CAPITAL_CASE for any constant variable names
 
 ## Rubric
