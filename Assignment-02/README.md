@@ -41,9 +41,11 @@ Ouput: invalid
 
 Several sample trips have been provided for you to test your code. You must also create your own test trip and display your formatted expected results.
 
+![testing](images/sample_test_runs.png)
+
 ### Note: It is suggested that you run your program with different values to ensure your calculations are correct.
 
-![assign1](images/assign1-sample-run.gif)
+![assign2](images/assign1-sample-run.gif)
 
 ## Submission
 Commit and push your solution to your GitHub classroom assignment repository before the deadline. Ensure that your solution follows the best coding and style practices, **as your instructor has shown you in class**. Failed adherence to the prescribed style guidelines may result in lost marks. __Your program must compile; a program that fails to compile will not be graded.__
