@@ -32,7 +32,7 @@ Input:
 Output: 	
 - Separate totals for people, time and distance.
 - Grand total for trip.
--         OR
+      OR
 - Rejected Trip message
 
 ### Sample Run
