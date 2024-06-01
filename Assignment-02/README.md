@@ -41,7 +41,7 @@ Ouput: invalid
 
 Several sample trips have been provided for you to test your code. You must also create your own test trip and display your formatted expected results.
 
-![testing](images/sample_test_senarios.png)
+![testing](images/sample_test_scenarios.png)
 
 ### Note: It is suggested that you run your program with different values to ensure your calculations are correct.
 
