@@ -29,13 +29,13 @@ Input:
 - Hours booked
 - Total Distance in km.
 
-Output: 	
+Output: valid	
 - Separate totals for people, time and distance.
 - Grand total for trip.
 
-      OR
+Ouput: invalid
   
-- Rejected Trip message
+- Rejected Trip message with appropriate reason
 
 ### Sample Run
 
