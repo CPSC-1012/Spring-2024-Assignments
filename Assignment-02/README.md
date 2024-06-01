@@ -16,11 +16,11 @@ The cost per person is calculated on numbers as shown in the table below. The ho
 
 ### Requirements
 
-- Valid dat entered by the user.
-- If an amount of people outside of the range 1 to 12 is entered; put out a message indicating the booking is unacceptable.
-- Hours must be a positive whole number (minimum value is 2)
-- Kilometers must be a positive whole number greater than 0.
-- if any validation fails, do NO further processing of the charges.
+- Validate data entered by the user.
+  - If an amount of people outside of the range 1 to 12 is entered; put out a message indicating the booking is unacceptable.
+  - Hours must be a positive whole number (minimum value is 2)
+  - Kilometers must be a positive whole number greater than 0.
+  - if any validation fails, do NO further processing of the charges.
 - Calculate the charge for booked trip if all data is valid.
 - Display the inputed data and charges as shown in the sample run.
 
