@@ -13,6 +13,8 @@ The owners of the Super Supermarket would like to have a program that computes t
 Your uncle owns a limo service. The service provides rides on an individual basis as well a for groups up to 12 people. Rides costs are set using the number of people plus per hour plus a mileage charges. 
 The cost per person is calculated on numbers as shown in the table below. If an amount of people outside of the range 1 to 12 is entered; put out a message indicating the booking is unacceptable and do NO further processing of the charges. The hourly cost is set by the number hour as shown in the table below (minimum 2 hours regardless of actual time). 
 
+![charges](images/table_of_charges.png)
+
 ### Note: For this assignment, **do not** assume the user will enter valid data.
 
 ### Sample Run
