@@ -62,4 +62,4 @@ Commit and push your solution to your GitHub classroom assignment repository bef
 | 3  | Acceptable – most of the requirements/coded; program produces the expected results for some of the test cases; has major erros; coding does not follow best practices and class standards; does not include satisfactory/expected program documentation |
 | 2  | Needs Work – some of the requirements/coded; program fails to produce expected results; has major errors; coding does not follow best practices and class standards; does not include satisfactory/expected program documentation |
 | 1  | Unsatisfactory – code does not meet any of the requirements; program fails to produce expected results; has major errors; coding does not follow best practices and class standards; does not include satisfactory/expected program documentation |
-| 0  | Not done  |
+| 0  | Not done - requirements not coded; does not reflect assignment; coding does not follow best practices and class standards; does not include satisfactory/expected program documentation |
