@@ -100,7 +100,7 @@ __Aside from what’s been presented in this document, do not make any assumptio
 ## Coding Requirements
 - A C# comment block at the beginning of the source file describing the purpose, author, and last modified date of the program
 - Write only one statement per line
-- You must use four corresponding/parallel arrays for names, wages and weekly hours in your solution
+- You must use three corresponding/parallel arrays for names, wages and weekly hours in your solution
 - Use camelCase/PascalCase (dependent on instructor choice) for local variable names
 - Use TITLECASE for any constant variable names
 - Use defensive programming where necessary
