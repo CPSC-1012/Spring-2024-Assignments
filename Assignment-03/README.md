@@ -21,7 +21,7 @@ Your program must meet the following requirements:
 
 You will be provided with a starter project for this assignment ([Assignment3Starter.zip](./Assignment3Starter.zip)). Your job will be to complete the missing requirements where indicated. There are a number of tasks that are all identified by `// TODO: ` comments throughout the Program.cs file.
 
-The program makes use of a main menu for user options. The program should continue to run until the user chooses to quit the program. The user asked to supply the desired filename, when the program needs to load (read) or save (written) from/to a file. There are two types of file used within the program. **All files will be at the same level as your Program.cs file in your solution".
+The program makes use of a main menu for user options. The program should continue to run until the user chooses to quit the program. The user will be asked to supply the desired filename, when the program needs to load (read) or save (written) from/to a file. There are two types of file used within the program. **All files will be at the same level as your Program.cs file in your solution".
 
 The first file will hold the weekly pay data (Name, Wage, and Hours). This file can be loaded, altered and saved.
 
