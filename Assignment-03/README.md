@@ -4,7 +4,7 @@ __Weight:__ 15% of final mark
 __Submission requirements:__ On or before the deadline, commit a .Net Core 8 Visual Studio 2022 project to the GitHub repository. __You must commit and push to the classroom repository supplied for the assignment__; do not create your own repository. It is your responsibility to ensure that your work is in the correct repository. ___Work not in the repository will not be graded___.
 
 ## Context
-A friend of yours sells has a small business with up to 25 employees, depending on the time of year. They need help building a sound financial system to create weekly pay slips. They shared with you that it would be nice to have a program that could produce such a system. After hearing about their plight, you offer your expertise to help them by building a program to help them out. It should be simple enough ...
+A friend of yours has a small business with up to 25 employees, depending on the time of year. They need help building a sound financial system to create weekly pay slips. They shared with you that it would be nice to have a program that could produce such a system. After hearing about their plight, you offer your expertise to help them by building a program to help them out. It should be simple enough ...
 
 ### Requirements
 
