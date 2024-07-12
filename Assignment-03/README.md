@@ -75,7 +75,7 @@ double (ensure that the program does not crash and always returns a valid double
 - **int PromptInteger(string promptString)** --> displays the prompt string and returns user-entered
 integer (ensure that the program does not crash and always returns a valid double value)
 [difficulty 1]
-- **int LoadEmployees(string[] names, double[] wages, double[] hours, string filename)** --> used when creatly a new weekly set of data; reads the current employee list file and loads the employee name, status and wage into their appropriate arrays; set the hours array to zero; returns the number of employees loaded [difficulty 2]
+- **int LoadEmployees(string[] names, double[] wages, double[] hours, string filename)** --> used when creatly a new weekly set of data; reads the current employee list file and loads the employee name and wage into their appropriate arrays; set the hours array to zero; returns the number of employees loaded [difficulty 2]
 - **int LoadWeeklyFile(string[] names, double[] wages, double[] hours, string filename)** --> loads the records from an existing weekly file
 (filename) into the associative arrays used by the program; returns the record count (i.e. how
 many employees were loaded) [difficulty 2]
