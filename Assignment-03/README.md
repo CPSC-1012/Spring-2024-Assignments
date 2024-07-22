@@ -82,8 +82,8 @@ many employees were loaded) [difficulty 2]
 - **void SaveWeeklyFile(string[] names, double[] wages, double[] hours, string filename, int countOfEntries)** --> writes the
 associative array data to a weekly file (filename) in the correct format [difficulty 2]
 - **void DisplayWeeklyHours(string[] names, double[] wages, double[] hours, int countOfEntries)** --> displays the current entered/loaded employee entries in a formatted table (i.e. ensure that proper columns and alignment are used). __You must use a for loop to loop through the arrays and produce the display__ [difficulty 2]
-- **void EditWeeklyEntries(string[] names, double[] hours, int countOfEntries)** --> allows the user to view all current weekly entries and choose one to edit the employee weekly hours (i.e. overwrite hours). An employee may only work up to 75 hours per week.  [difficulty 3]
-- **void EmployeePaySlips(string[] names, double[] wages, double[] hours, int countOfEntries)** --> allows the user to view all current weekly pay slip data for the employees. Goss Wage is straight time for the first 37.5 hours per week then 1.5 * straight time for any hours over 37.5. Tax rate is according to the following table. [difficulty 3]
+- **void EditWeeklyEntries(string[] names, double[] hours, int countOfEntries)** --> allows the user to view all current weekly entries and choose one to edit the employee weekly hours (i.e. overwrite hours). An employee may only work up to 75 hours per week. Valid entered hours are from 0 to 75. Allow 0 because you may have to correct hours for an employee that you accidently entered time for but should not have, thus it is a correction to an entry.  [difficulty 3]
+- **void EmployeePaySlips(string[] names, double[] wages, double[] hours, int countOfEntries)** --> allows the user to view all current weekly pay slip data for the employees. Goss Wage is straight time for the first 37.5 hours per week then 1.5 * straight time for any hours over 37.5. Tax rate is according to the following table. (i.e. ensure that proper columns and alignment are used) [difficulty 3]
 
 | Gross Wage ($) | Tax rate (%) |
 | -------------- | ------------ |

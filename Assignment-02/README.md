@@ -16,8 +16,8 @@ The cost per person is calculated on numbers as shown in the table below. The ho
 
 - a minimum of 2 hours is charged; $80 * 2 = 160
 - over 2 hours till 4 hours; all hours charged at $70 (including first 2)
-- over 4 hours till 8 hours; all hours charged at $65
-- 9 or more hours; all hours charged at $60
+- over 4 hours till 8 hours; all hours charged at $65 (including first 4)
+- 9 or more hours; all hours charged at $60 (including first 8)
 
 example 3 hours 3 * 70 = 210
 
@@ -28,16 +28,16 @@ example 3 hours 3 * 70 = 210
 - over 250 till 400; all mileage charged at 0.07
 - over 400; all mileage charged at 0.06
 
-example 175 kilometes: 175 * 0.07 = 14.00
+example 175 kilometes: 175 * 0.08 = 14.00
 
 #### Persons
 
 - 1st person (regardless of the number of people) charged 25.00
-- for next 3 people, charge 10.00 each
-- for next 4 people, charge 7.50 each
-- for the next 4 people, charge 6.00 each
+- for next 3 people, charge 10.00 for each additional over 1
+- for next 4 people, charge 7.50 for each additional over 1
+- for the next 4 people, charge 6.00 for each additional over 1
 
-example 3 people: 25 + 10 + 10 = 45
+example 6 people: 25 + 7.50 + 7.50 + 7.50 + 7.50 + 7.50 = 52.50
 
 
 ![charges](images/table_of_charges.png)
