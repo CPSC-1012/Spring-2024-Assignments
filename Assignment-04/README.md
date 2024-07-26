@@ -18,7 +18,7 @@ Design a class named `InvoiceDetail` that meets the following  requirements:
 
 - A `string` field to store the part's identification number and a corresponding property `ProductId` with both get and set
   - The identification cannot be empty, null, or whitespace; ensure that the stored value is trimmed of leading and trailing whitespace
-- A `string` field to store the part's last description and a corresponding property `Description` with both get and set
+- A `string` field to store the part's description and a corresponding property `Description` with both get and set
   - The description cannot be empty, null, or whitespace; ensure that the stored value is trimmed of leading and trailing whitespace
 - An `int` field to store the quantity purchased and a corresponding property `Quantity` with both get and set
   - The quantity must be greater than zero
